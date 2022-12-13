@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc -c $CFILE -o james2.o
