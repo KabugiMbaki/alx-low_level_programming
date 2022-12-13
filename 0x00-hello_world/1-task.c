@@ -1,12 +1,13 @@
 #include <stdio.h>
 
 /**
- *  main - Entry point
  * 
+ * main Entry point
+ *
  * Return: Always 0 (Success)
  */
 int main(void)
 {
-	printf("This is a great start");
+	printf("James second trials");
 	return(0);
-}	
+}
